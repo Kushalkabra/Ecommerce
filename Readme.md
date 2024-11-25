@@ -143,10 +143,3 @@ To use Thrifty:
 4. **Checkout**: Proceed to checkout, enter your details, and confirm your order.
 5. **Admin**: If you're an admin, log in to manage the store via the dashboard.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
